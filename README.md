@@ -72,7 +72,8 @@ For extra credit even before you will need it on Assignment 1, place a photograp
 
 Hopefully your smile will look every bit as dorky as mine.
 
-![Image description](/images/wpic.jpg)
+![Image description](/images/Samantha.jpg)
+
 
 File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
 
@@ -91,3 +92,7 @@ For example
 
 You can d0 this as many times as you wish, you'll just have to delete the repositories from your github when they start feeling like clutter. Allow for about 20-30 seconds to delete a repository from github, once you learn it.
 
+
+
+[def]: C:\Users\sscho\OneDrive\Pictures\Screenshots\Screenshot_9-3-2024_103641_www.instagram.com.jpeg
+[def2]: /images/preview.jpg
